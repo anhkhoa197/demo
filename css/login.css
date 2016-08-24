@@ -1,0 +1,30 @@
+#tblogin tr{
+    width: 200px;
+    height: 20px;
+    text-align: right;
+    
+}
+#tblogin tr .td1{
+    width:100px !important;
+    
+}
+#register{
+    
+}
+#tbregister{
+    width:50%;
+    margin: 2% auto;
+}
+#tbregister tr{
+    height: 25px;
+    
+}
+#tbregister input[type=text],
+#tbregister input[type=password],
+#tbregister input[type=date],
+#tbregister  input[type=email],
+#tbregister  input[type=tel]{
+    width: 200px;
+    height: 25px;
+    
+}

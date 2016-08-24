@@ -1,0 +1,48 @@
+#admin1{
+    width: 95%;
+    margin: 1% auto;
+    border-bottom: 2px solid #f9a102;
+}
+#admin1 h1{
+    font-size: 24px;
+    color: #cd6300;
+}
+#admin1 form{
+    margin: 0 5%;
+    
+}
+#admin1 form input[type=text],
+#admin1 form input[type=date],
+#admin1 form input[type=number],
+#admin1 form input[type=text]
+{
+    width: 350px;
+    height: 25px;
+}
+#add tr {
+    height: 35px;
+    margin: 2% 0;
+    
+}
+
+
+#add tr td{
+    margin: 2% 0;
+    
+}
+
+#admin2{
+    width: 95%;
+    min-height:500px; 
+    margin: 1% auto;
+    border-bottom: 2px solid #f9a102;
+}
+#admin2 h1{
+    font-size: 24px;
+    color: #cd6300;
+}
+#admin3{
+    width: 95%;
+    margin: 1% auto;
+    border-bottom: 2px solid #f9a102;
+}
